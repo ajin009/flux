@@ -26,7 +26,7 @@ spec:
         app: hello-app-demo
     spec:
       containers:
-      - name: hello-app-demo
+      - name: hello-app-demo1
         image: 024752845975.dkr.ecr.us-east-2.amazonaws.com/new:latest
         ports:
         - name: hello-app-port
